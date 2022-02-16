@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MockserverApplication<MockServer>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.ing.test.mockserver.MockserverApplication",
+            "projectName": "MockServer",
+            "args": ""
+        }
+    ]
+}
